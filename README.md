@@ -39,7 +39,7 @@ Then change the In.Max to 1000 and the Out. mac to 10. These values will depend 
 
 Then start Ableton live, go to the preferences, and click the Midi Sync tab. And these are the settings in Ableton live for communicating with Osculator. 
 
-![687474703a2f2f7777772e626a656c6d2e636f6d2f67697453747566662f6162656c746f6e4d69646953657475702e6a7067.jpeg](https://github.com/Keldorado/Final-Project/blob/master/Assets/687474703a2f2f7777772e626a656c6d2e636f6d2f67697453747566662f6162656c746f6e4d69646953657475702e6a7067.jpeg)
+(https://github.com/Keldorado/Final-Project/blob/master/Assets/687474703a2f2f7777772e626a656c6d2e636f6d2f67697453747566662f6162656c746f6e4d69646953657475702e6a7067.jpeg)
 
 
 Then load an instrument. I used the Off World Strings but you can choose any plug in you want. Double click on your instrument to load it into the Live session. 
