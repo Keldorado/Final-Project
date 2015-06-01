@@ -28,18 +28,18 @@ Once you have these items downloaded we are good to go. Open the Xcode file and 
 Once you have done that, then run the Xcode program. 7 rows of information should appear on the OSCulator. Once you have done that, change the Event Types to MIDI CC, all the values to 0, and give each row their their own respective channel number. See the image below for visual. 
 
   
-![Screen Shot 2015-06-01 at 12.34.53 AM.png](/Users/austinkelley/Documents/Developer/of_v0.8.4_osx_release/apps/myApps/FaceOscTracker/Assets/Screen Shot 2015-06-01 at 12.34.53 AM.png)
+![Screen Shot 2015-06-01 at 12.34.53 AM.png](/https://github.com/Keldorado/Final-Project/blob/master/Assets/Screen%20Shot%202015-06-01%20at%2012.34.53%20AM.png)
 
 Then, to access the input pane, either keycombo command-f or click the "secret arrow" near the top right of the OSCulator. See image below for visual.
 
 
-![Screen Shot 2015-06-01 at 1.04.25 AM.png](/Users/austinkelley/Documents/Developer/of_v0.8.4_osx_release/apps/myApps/FaceOscTracker/Assets/Screen Shot 2015-06-01 at 1.04.25 AM.png)
+![Screen Shot 2015-06-01 at 1.04.25 AM.png](https://github.com/Keldorado/Final-Project/blob/master/Assets/Screen%20Shot%202015-06-01%20at%201.04.25%20AM.png)
 
 Then change the In.Max to 1000 and the Out. mac to 10. These values will depend on what you want to manipulate in Live but for my project these values seemed to work well. Now uncheck all of the blue boxes in OSCulator. (These boxes tell OSCulator to send messages to our designed port. Why we unchecked them will become clear in a moment)
 
-Then start Ableton live and go to the settings pane. And these are the settings in Ableton live for communicating with Osculator and Ableton live. 
+Then start Ableton live, go to the preferences, and click the Midi Sync tab. And these are the settings in Ableton live for communicating with Osculator. 
 
-![687474703a2f2f7777772e626a656c6d2e636f6d2f67697453747566662f6162656c746f6e4d69646953657475702e6a7067.jpeg](/Users/austinkelley/Documents/Developer/of_v0.8.4_osx_release/apps/myApps/FaceOscTracker/Assets/687474703a2f2f7777772e626a656c6d2e636f6d2f67697453747566662f6162656c746f6e4d69646953657475702e6a7067.jpeg)
+![687474703a2f2f7777772e626a656c6d2e636f6d2f67697453747566662f6162656c746f6e4d69646953657475702e6a7067.jpeg](https://github.com/Keldorado/Final-Project/blob/master/Assets/687474703a2f2f7777772e626a656c6d2e636f6d2f67697453747566662f6162656c746f6e4d69646953657475702e6a7067.jpeg)
 
 
 Then load an instrument. I used the Off World Strings but you can choose any plug in you want. Double click on your instrument to load it into the Live session. 
@@ -47,7 +47,7 @@ Then load an instrument. I used the Off World Strings but you can choose any plu
 After this you have go into Midi mapping mode on Ableton. This allows you to map the midi signals coming from Osculator to what you want to happen in Ableton live. To go into Midi mapping mode, click the MIDI button in the top right corner of Live. Now click the part of Live you wish to map. Then go back into OSCulator and check the box next to /face/area0/. Now you should see something like this in the Midi Mappings pane.
 
 
-![Screen Shot 2015-06-01 at 1.28.16 AM.png](/Users/austinkelley/Documents/Developer/of_v0.8.4_osx_release/apps/myApps/FaceOscTracker/Assets/Screen Shot 2015-06-01 at 1.28.16 AM.png)
+![Screen Shot 2015-06-01 at 1.28.16 AM.png](https://github.com/Keldorado/Final-Project/blob/master/Assets/Screen%20Shot%202015-06-01%20at%201.28.16%20AM.png)
 
 Then unclick the MIDI button to store your mapping in Live. Now, while Xcode is running, you can control Live with your face. 
 
